@@ -15,3 +15,16 @@ Rabbit_Cat.png (picture of model accuracy from SWISS Model)
 Rabbit_Cat_Model.pdb (Model from SWISS model)
 Rabbit_Human.png (picture of model accuracy from SWISS Model)
 Rabbit_Human_Model.pdb (Model from SWISS model)
+
+youtube links:
+cat human model:
+https://youtu.be/MOPMVkdkenE
+
+rabbit human model:
+https://youtu.be/odlmopIPX8A
+
+cat human aligned:
+https://youtu.be/SmGqChPU4Ok
+
+cat rabbit model:
+https://youtu.be/De5ftD00j9E
